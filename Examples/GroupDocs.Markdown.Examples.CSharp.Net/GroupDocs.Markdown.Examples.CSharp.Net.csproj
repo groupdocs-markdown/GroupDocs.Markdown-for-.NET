@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>net60;net80;net70;net90</TargetFrameworks>
+  </PropertyGroup>
+  
+  <Import Project="..\GroupDocs.Markdown.Examples.CSharp\GroupDocs.Markdown.Examples.CSharp.projitems" Label="Shared" />
+  
+  <ItemGroup>
+    <PackageReference Include="GroupDocs.Markdown" Version="25.8.1" />
+  </ItemGroup>
+</Project>
