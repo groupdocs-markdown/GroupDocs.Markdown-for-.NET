@@ -30,7 +30,7 @@ namespace GroupDocs.Markdown.Examples.CSharp
 
             #region Basic Usage
 
-            //GenerateMarkdownManyFormats.Run();
+            GenerateMarkdownManyFormats.Run();
             ImagesExportAsBase64Strategy.Run();
             ImagesExportToFileSystemStrategy.Run();
             ImagesSkipStrategy.Run();
