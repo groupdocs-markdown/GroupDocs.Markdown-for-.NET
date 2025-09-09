@@ -2,8 +2,6 @@
 //   Copyright (C) 2011-2025 GroupDocs. All Rights Reserved.
 // </copyright>
 
-using GroupDocs.Markdown.Licensing;
-
 namespace GroupDocs.Markdown.Examples.CSharp.QuickStart
 {
     using System;

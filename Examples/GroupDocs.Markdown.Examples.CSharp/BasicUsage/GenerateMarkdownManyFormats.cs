@@ -24,8 +24,8 @@ namespace GroupDocs.Markdown.Examples.CSharp.BasicUsage
                     var outputPath = Path.Combine(Constants.OutputPath, "output_" + Path.GetExtension(file).Replace(".","") + ".md");
                     var result = converter.Convert(outputPath);
 
-                    Console.WriteLine("Result: " + result.IsSuccess);
                     Console.WriteLine("Path: " + outputPath);
+                    Console.WriteLine("Result: " + result.IsSuccess);
                 }
             }
         }

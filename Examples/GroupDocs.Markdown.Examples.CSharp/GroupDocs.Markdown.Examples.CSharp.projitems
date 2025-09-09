@@ -12,6 +12,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)AdvancedUsage\UserImagesStrategy.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)BasicUsage\ImagesExportAsBase64Strategy.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)BasicUsage\ImagesExportToFileSystemStrategy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)BasicUsage\PagesDocx.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)BasicUsage\ImagesSkipStrategy.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)BasicUsage\GenerateMarkdownManyFormats.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Constants.cs" />

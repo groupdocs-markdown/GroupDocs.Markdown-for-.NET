@@ -8,6 +8,6 @@
   <Import Project="..\GroupDocs.Markdown.Examples.CSharp\GroupDocs.Markdown.Examples.CSharp.projitems" Label="Shared" />
   
   <ItemGroup>
-    <PackageReference Include="GroupDocs.Markdown" Version="25.8.1" />
+    <PackageReference Include="GroupDocs.Markdown" Version="25.9.0" />
   </ItemGroup>
 </Project>

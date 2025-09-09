@@ -4,8 +4,6 @@
 
 namespace GroupDocs.Markdown.Examples.CSharp.BasicUsage
 {
-    using DocumentConversion.ImageExport.ImageExportStrategy;
-    using DocumentConversion;
     using System;
 
     /// <summary>

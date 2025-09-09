@@ -4,10 +4,7 @@
 
 namespace GroupDocs.Markdown.Examples.CSharp.AdvancedUsage
 {
-    using DocumentConversion.ImageExport.ImageExportStrategy;
-    using DocumentConversion;
     using System;
-    using DocumentConversion.ImageExport;
 
     /// <summary>
     /// This example demonstrates how to generate markdown from pdf and save image as file using custom function.
